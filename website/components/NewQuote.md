@@ -1,5 +1,15 @@
 # NewQuote
 
+## Events
+
+<!-- @vuese:NewQuote:events:start -->
+|Event Name|Description|Parameters|
+|---|---|---|
+|quoteAdded|this event emits the newest quote|-|
+
+<!-- @vuese:NewQuote:events:end -->
+
+
 ## Methods
 
 <!-- @vuese:NewQuote:methods:start -->
